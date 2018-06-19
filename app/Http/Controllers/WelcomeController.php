@@ -22,3 +22,4 @@ class WelcomeController extends Controller
             'items' => $items,
         ]);
 }
+}
