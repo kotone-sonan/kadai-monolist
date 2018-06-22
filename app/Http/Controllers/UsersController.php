@@ -29,6 +29,7 @@ class UsersController extends Controller
             'items' => $items,
             'count_want' => $count_want,
             'count_have' => $count_have,
+            
         ]);
     }
 }
